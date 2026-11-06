@@ -56,9 +56,11 @@ I'm **Saad**, an Artificial Intelligence undergraduate at **PAF-IAST, Pakistan**
   <img src="https://skillicons.dev/icons?i=flask,git,github,vscode,docker,linux"/>
 </p>
 
-- Tkinter
-- PyQt5
-- Jupyter Notebook
+<p>
+  <img src="https://img.shields.io/badge/Tkinter-Python%20GUI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt5-Qt%20Framework-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 
