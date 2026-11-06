@@ -65,7 +65,20 @@ I'm **Saad**, an Artificial Intelligence undergraduate at **PAF-IAST, Pakistan**
 
 ## 🚀 Featured Projects
 
-### 1. NeuroInk – Handwritten Digit Recognizer
+### 1. QR Viewer – Browser Extension for QR Code Detection
+
+A Chromium browser extension that detects, decodes, and interacts with QR codes directly on webpages without requiring a phone or camera.
+
+- Built using vanilla JavaScript, HTML, and CSS.
+- Automatic QR code detection and decoding on webpages.
+- Inspect Mode and Select Area for interactive QR scanning.
+- Scan history with search, delete, and export options.
+- Smart content detection and risky link warnings.
+- Dark and light theme support.
+
+🔗 [View Repository](https://github.com/MohamedSa-ad/qr-viewer)
+
+### 2. NeuroInk – Handwritten Digit Recognizer
 
 A web-based handwritten digit recognition application using a trained neural network.
 
@@ -76,41 +89,6 @@ A web-based handwritten digit recognition application using a trained neural net
 
 🔗 [View Repository](https://github.com/MohamedSa-ad/NeuroInk--Hand-written-digit-recognizer)
 
-### 2. Plant Disease Detector
-
-An image classification application designed to identify plant diseases using CNN.
-
-- TensorFlow and CNN.
-- Image-based disease prediction.
-- Tkinter desktop interface.
-
-### 3. Shopper Behavior Segmenter
-
-A customer segmentation application using unsupervised Machine Learning.
-
-- Python and Scikit-learn.
-- K-Means clustering.
-- Customer behavior analysis.
-- Tkinter interface.
-
-### 4. AI Maze Solver & Treasure Hunt Simulator
-
-A visualization project exploring classical AI search algorithms.
-
-- Breadth-First Search (BFS).
-- Depth-First Search (DFS).
-- A* Search Algorithm.
-- Python and Tkinter.
-
-### 5. Office Commute Optimizer
-
-A Python desktop application exploring office commute route optimization.
-
-- Python and PyQt5.
-- Route optimization concepts.
-- Interactive interface.
-
----
 
 ## 💼 Experience
 
