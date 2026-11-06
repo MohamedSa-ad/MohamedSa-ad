@@ -83,6 +83,20 @@ A web-based handwritten digit recognition application using a trained neural net
 🔗 [View Repository](https://github.com/MohamedSa-ad/NeuroInk--Hand-written-digit-recognizer)
 🔗 [Demo Video](https://lnkd.in/p/eU3p_Hm5)
 
+## 🎓 Education
+
+**BS in Artificial Intelligence — PAF-IAST**
+
+- Currently pursuing a Bachelor's degree in Artificial Intelligence.
+- Studying at Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Haripur, Pakistan.
+
+**G.C.E. Advanced Level — Physical Science | Zahira College, Mawanella**
+
+- Combined Mathematics: B
+- Physics: B
+- Chemistry: B
+- Achieved 3B with a Z-Score of 1.4698.
+
 ## 💼 Experience
 
 **AI/ML Intern — Mtech Production & Marketing**
