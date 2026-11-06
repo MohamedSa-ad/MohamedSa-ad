@@ -1,7 +1,7 @@
 # Mohamed Saad | AI/ML Engineer
 
 <p align="center">
-  <img src="<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/74c20eec-ae27-4004-851e-bce4134ac7f4" />" width="100%" alt="Mohamed Saad - AI/ML Engineer Banner"/>
+  <img src="" width="100%" alt="Mohamed Saad - AI/ML Engineer Banner"/>
 </p>
 
 <p align="center">
