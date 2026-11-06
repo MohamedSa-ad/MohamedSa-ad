@@ -83,6 +83,7 @@ A web-based handwritten digit recognition application using a trained neural net
 🔗 [View Repository](https://github.com/MohamedSa-ad/NeuroInk--Hand-written-digit-recognizer)
 🔗 [Demo Video](https://lnkd.in/p/eU3p_Hm5)
 
+
 ## 🎓 Education
 
 **BS in Artificial Intelligence — PAF-IAST**
