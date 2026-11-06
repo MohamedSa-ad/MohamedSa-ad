@@ -77,6 +77,7 @@ A Chromium browser extension that detects, decodes, and interacts with QR codes 
 - Dark and light theme support.
 
 🔗 [View Repository](https://github.com/MohamedSa-ad/qr-viewer)
+🔗 [Demo Video](https://lnkd.in/p/erxvt5Zu)
 
 ### 2. NeuroInk – Handwritten Digit Recognizer
 
@@ -88,7 +89,7 @@ A web-based handwritten digit recognition application using a trained neural net
 - Per-digit probability visualization.
 
 🔗 [View Repository](https://github.com/MohamedSa-ad/NeuroInk--Hand-written-digit-recognizer)
-
+🔗 [Demo Video](https://lnkd.in/p/eU3p_Hm5)
 
 ## 💼 Experience
 
