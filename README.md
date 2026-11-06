@@ -59,8 +59,9 @@ I'm **Saad**, an Artificial Intelligence undergraduate at **PAF-IAST, Pakistan**
   <img src="https://img.shields.io/badge/Tkinter-Python%20GUI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt5-Qt%20Framework-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
