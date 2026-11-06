@@ -36,31 +36,22 @@ I'm **Saad**, an Artificial Intelligence undergraduate at **PAF-IAST, Pakistan**
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
 **AI / Machine Learning**
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,keras,numpy,pandas" />
 </p>
 
 **Tools & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,git,github,vscode,docker,linux"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Tkinter-Python%20GUI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt5-Qt%20Framework-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flask,git,github,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=qt,jupyter" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" />
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="48" />
 </p>
 ---
 
