@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who am I?
 
 I'm **Saad**, an Artificial Intelligence undergraduate at **PAF-IAST, Pakistan**, passionate about building intelligent systems and exploring how AI can solve real-world problems.
 
@@ -37,7 +37,7 @@ I'm **Saad**, an Artificial Intelligence undergraduate at **PAF-IAST, Pakistan**
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp"/>
 </p>
 
 **AI / Machine Learning**
