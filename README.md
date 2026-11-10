@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-MohamedSa--ad-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Role-AI%2FML%20Engineer-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-AI%2FML%20Enthusiast-0EA5E9?style=for-the-badge"/>
 </p>
 
 ---
