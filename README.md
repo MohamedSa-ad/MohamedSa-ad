@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Who am I?
 
-I'm **Saad**, an Artificial Intelligence undergraduate at **PAF-IAST, Pakistan**, passionate about building intelligent systems and exploring how AI can solve real-world problems.
+I'm **Mohamed Saad**, an Artificial Intelligence undergraduate at **PAF-IAST, Pakistan**, passionate about building intelligent systems and exploring how AI can solve real-world problems.
 
 - 🎓 Pursuing a BS in Artificial Intelligence.
 - 🤖 Interested in Machine Learning, Deep Learning, and AI applications.
